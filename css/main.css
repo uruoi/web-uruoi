@@ -7,6 +7,9 @@ h1 {
 .oneunder {
  margin-top: 100vh;
 }
+.font-s {
+  font-size: 12px;
+}
 .font-xs {
   font-size: 8px;
   color: #fff;
