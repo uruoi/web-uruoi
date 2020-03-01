@@ -49,6 +49,9 @@ h1 {
   position: relative;
   left: 4px;
 }
+.blog-p {
+  font-size: 0.9em;
+}
 .blog-h2{
   font-size: 1.2em;
   font-weight: 600;
