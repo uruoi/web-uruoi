@@ -4594,7 +4594,7 @@ ul.uk-nav-sub {
   bottom: 0;
   left: 20px;
   right: 0;
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 3px solid #e5e5e5;
 }
 /*
  * 1. Space is allocated solely based on content dimensions: 0 0 auto
@@ -4623,7 +4623,7 @@ ul.uk-nav-sub {
   /* 2 */
   padding: 5px 10px;
   color: #999;
-  border-bottom: 1px solid transparent;
+  border-bottom: 3px solid transparent;
   font-size: 0.875rem;
   text-transform: uppercase;
   transition: color 0.1s ease-in-out;
@@ -4637,7 +4637,7 @@ ul.uk-nav-sub {
 /* Active */
 .uk-tab > .uk-active > a {
   color: #333;
-  border-color: #1e87f0;
+  border-color: #333;
 }
 /* Disabled */
 .uk-tab > .uk-disabled > a {
