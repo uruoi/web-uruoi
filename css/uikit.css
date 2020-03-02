@@ -3395,7 +3395,7 @@ select.uk-form-width-xsmall {
  ========================================================================== */
 .uk-label {
   display: inline-block;
-  margin-top: -14px;
+  margin-top: -8px;
   padding: 4px 10px 5px 10px;
   background: #1e87f0;
   line-height: 1.5;
