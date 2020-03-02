@@ -85,7 +85,7 @@ background: #f8f8f8;
   text-shadow: 0 -1px -1px #1B3D82;
   display: inline;
   position: relative;
-  top:-40px;
+  top:-41px;
   font-family: Arial;
   font-size: 14px;
   font-weight: bold;
@@ -99,7 +99,7 @@ background: #f8f8f8;
   background-color: #354F84;
 }
 .facebook:active {
-  top: 2px;
+  top: -42px;
 	box-shadow: 0 2px 0 #1B3D82;
 }
 .twitter {
@@ -107,7 +107,7 @@ background: #f8f8f8;
   box-shadow: 0 4px 0 #0078BD;
   display: inline;
   position: relative;
-  top: -40px;
+  top: -41px;
   font-family: Arial;
   font-size: 14px;
   font-weight: bold;
@@ -118,7 +118,7 @@ background: #f8f8f8;
   padding: 8px 24px;
 }
 .twitter:active {
-  top: 2px;
+  top: -42px;
 	box-shadow: 0 2px 0 #0078BD;
 }
 .twitter:hover {

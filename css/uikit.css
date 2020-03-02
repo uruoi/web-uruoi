@@ -40,7 +40,7 @@ a:hover {
  */
 a,
 .uk-link {
-  color: #1e87f0;
+  color: ;
   text-decoration: none;
   cursor: pointer;
 }
@@ -48,8 +48,7 @@ a:hover,
 .uk-link:hover,
 .uk-link-toggle:hover .uk-link,
 .uk-link-toggle:focus .uk-link {
-  color: #0f6ecd;
-  text-decoration: underline;
+  color: ;
 }
 /* Text-level semantics
  ========================================================================== */
